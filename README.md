@@ -2,7 +2,7 @@
 <h3 align="center">I'm a System engineer and a passionate FullStack developer, with proficiency in back end development in technologies such as Typescript, Javascript, Java, node.js and frameworks as express.js .</h3>
 
 - 🔭 I’m currently working on **MrCheesecake**
-      A private project for a small bussiness in medellin.
+      <h6>A private project for a small bussiness in medellin.</h6>
   
 - 🌱 I’m currently learning **Phyton, Docker, AWS**
 
