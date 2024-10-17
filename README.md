@@ -6,7 +6,7 @@
   
 - 🌱 I’m currently learning **Phyton, Docker, AWS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Carletoz](https://github.com/Carletoz)
+- 👨‍💻 All of my projects are available at [https://github.com/Carletoz?tab=repositories](https://github.com/Carletoz?tab=repositories)
 
 - 📫 How to reach me **diazcarlos97.cd@gmail.com**
 
